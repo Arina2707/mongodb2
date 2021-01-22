@@ -1,1 +1,1 @@
-# Working with MongoDB (writing, reading, quering).
+Working with MongoDB (writing, reading, quering).
